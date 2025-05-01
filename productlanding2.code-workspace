@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bootstraplessons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "productlanding"
+	}
+}
